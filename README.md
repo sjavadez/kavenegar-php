@@ -18,13 +18,13 @@ After that you just need to pick API-KEY up from <a href="http://panel.kavenegar
 Use in these ways : 
 
 ```php
-composer require kavenegar/php
+composer require sjavadez/kavenegar-php
 ```
 
 or add
 
 ```php
-"kavenegar/php": "*"
+"sjavadez/kavenegar-php": "*"
 ```
 And run following command to download extension using **composer** 
 
@@ -43,7 +43,7 @@ Well, There is an example to Send SMS by PHP.
 require __DIR__ . '/vendor/autoload.php';
 
 try{
-	$api = new \Kavenegar\KavenegarApi( "API Key" );
+	$api = new \Sjavadez\Kavenegar\KavenegarApi( "API Key" );
 	$sender = "10004346";
 	$message = "خدمات پیام کوتاه کاوه نگار";
 	$receptor = array("09123456789","09367891011");

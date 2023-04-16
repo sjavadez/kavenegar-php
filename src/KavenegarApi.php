@@ -1,6 +1,6 @@
 <?php
 
-namespace Kavenegar;
+namespace Sjavadez\Kavenegar;
 
 use Kavenegar\Exceptions\ApiException;
 use Kavenegar\Exceptions\HttpException;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Kavenegar\Exceptions;
+namespace Sjavadez\Kavenegar\Exceptions;
 
 class BaseRuntimeException extends \RuntimeException 
 {

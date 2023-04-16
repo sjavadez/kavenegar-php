@@ -1,6 +1,6 @@
 <?php
 
-namespace Kavenegar\Enums;
+namespace Sjavadez\Kavenegar\Enums;
 
 abstract class General {
 	const  Enabled = "enabled";

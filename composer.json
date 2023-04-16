@@ -8,7 +8,7 @@
     "authors": [
         {
             "name": "Kavenegar API Team",
-            "email": "support@kavenegar.com"
+            "email": "ezazsje@gmail.com.com"
         }
     ],
     "require": {
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Kavenegar\\": "src/"
+            "Sjavadez\\Kavenegar\\": "src/"
         }
     },
     "minimum-stability" : "stable"
